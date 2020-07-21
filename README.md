@@ -1,1 +1,1 @@
-# kamlesh-Gaderiya_EpamRegistrationPageValidation
+EpamRegistrationPageValidation
